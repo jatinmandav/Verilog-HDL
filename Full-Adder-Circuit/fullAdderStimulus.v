@@ -1,25 +1,14 @@
 `timescale 1ns / 1ps
 
 ////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   16:16:38 02/06/2018
+// 
+// By:    Jatin Kumar Mandav
 // Design Name:   FullAdderCircuit
-// Module Name:   E:/VerilogPrograms/Logic-Circuits/fullAdderStimulus.v
-// Project Name:  Logic-Circuits
-// Target Device:  
-// Tool versions:  
-// Description: 
+//
+// Description: Stimulus File For Full Adder Circuit
 //
 // Verilog Test Fixture created by ISE for module: FullAdderCircuit
 //
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
 ////////////////////////////////////////////////////////////////////////////////
 
 module fullAdderStimulus;
