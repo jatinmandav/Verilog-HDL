@@ -6,10 +6,6 @@
 //
 // Description: A simple Full Adder Circuit using XOR and AND Gates
 //
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
 //////////////////////////////////////////////////////////////////////////////////
 module FullAdderCircuit(
 	input input1,
