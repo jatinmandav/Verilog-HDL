@@ -6,3 +6,12 @@ Programs are implemented using Xilinx ISE Simulator.
  - Full Adder Circuit
    - [Module](Full-Adder-Circuit/Full-Adder-Circuit.v)
    - [Test Bench](Full-Adder-Circuit/fullAdderStimulus.v)
+ - 4-bit Counter
+   - [Module](4-bit-Counter/FourBitCounter.v)
+   - [Test Bench](4-bit-Counter/counterStimulus.v)
+ - 4-to-1 MUX
+   - [Module](4-to-1-MUX/FoutToOneMUX.v)
+   - [Test Bench](4-to-1-MUX/MUXSimulate.v)
+ - 2-to-4 Decoder
+   - [Module](2-to-4-Decoder/TwoToFourDecoder.v)
+   - [Test Bench](2-to-4-Decoder/decoderSimulate.v)
