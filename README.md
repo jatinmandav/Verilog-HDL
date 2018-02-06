@@ -10,7 +10,7 @@ Programs are implemented using Xilinx ISE Simulator.
    - [Module](4-bit-Counter/FourBitCounter.v)
    - [Test Bench](4-bit-Counter/counterStimulus.v)
  - 4-to-1 MUX
-   - [Module](4-to-1-MUX/FoutToOneMUX.v)
+   - [Module](4-to-1-MUX/FourToOneMUX.v)
    - [Test Bench](4-to-1-MUX/MUXSimulate.v)
  - 2-to-4 Decoder
    - [Module](2-to-4-Decoder/TwoToFourDecoder.v)
