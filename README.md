@@ -15,3 +15,9 @@ Programs are implemented using Xilinx ISE Simulator.
  - 2-to-4 Decoder
    - [Module](2-to-4-Decoder/TwoToFourDecoder.v)
    - [Test Bench](2-to-4-Decoder/decoderSimulate.v)
+ - ALU (Arithmetic and Logic Unit)
+   - [Module](ALU/ALU.v)
+   - [Test Bench](ALU/stimulus_ALU.v)
+ - Division
+   - [Module](Division/division.v)
+   - [Test Bench](Division/stimulus_division.v)
